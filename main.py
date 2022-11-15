@@ -14,7 +14,7 @@ password = input("Enter Scratch account password: ")
 session = scratchclient.ScratchSession(username, password)
 
 while True:
-    following = session.get_user("SIGMA_a").get_following()
+    following = session.get_user(username).get_following()
 
     for f in following:
         try:
