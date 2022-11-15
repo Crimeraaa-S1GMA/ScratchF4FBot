@@ -8,3 +8,8 @@ If you think this thing steals accounts, check the source code. All it does is f
 [scratchclient by CubeyTheCube](https://github.com/CubeyTheCube/scratchclient)
 
 Python 3
+
+## To-do list
+- Better code
+- Configurablity
+- Support for different retrieval algorithms
