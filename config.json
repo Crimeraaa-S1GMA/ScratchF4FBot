@@ -1,3 +1,5 @@
 {
-  "timeInterval": 10
+  "timeInterval": 10,
+  "userName" : "YourUsername",
+  "password" : "YourPassword"
 }
