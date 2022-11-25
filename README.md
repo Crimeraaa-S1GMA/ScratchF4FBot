@@ -11,5 +11,4 @@ Python 3
 
 ## To-do list
 - Better code
-- Configurablity
 - Support for different retrieval algorithms
